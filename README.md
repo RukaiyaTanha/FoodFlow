@@ -20,6 +20,6 @@ This project was developed as my **2nd semester pure Java project in 2023**.
 
 - **Language:** Java (JDK 8+)
 - **GUI:** Java Swing
-- **Database:** Optional (for saving order history, can be file-based)
+- **Database:** MySQL
 
 
